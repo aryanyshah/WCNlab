@@ -71,14 +71,15 @@ ul li{list-style: none;}
 
 nav .logo{
     color: var(--orange);
-    margin-top: 70px;
+    margin-top: 10px;
 }
 
 nav a{
     color: var(--light-blue);
-    margin: 0 20px;
+    margin: 0 10px;
 }
 nav a:hover{color: var(--orange);}
+
 
 .landing_content {
     height: 90%;
