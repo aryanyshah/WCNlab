@@ -71,12 +71,12 @@ ul li{list-style: none;}
 
 nav .logo{
     color: var(--orange);
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 nav a{
     color: var(--light-blue);
-    margin: 0 10px;
+    margin: 10 5px;
 }
 nav a:hover{color: var(--orange);}
 
@@ -91,7 +91,7 @@ nav a:hover{color: var(--orange);}
     height: 100%;
 }
 
-.landing_info h1{color: var(--light-blue);}
+.landing_info h1{color: white;}
 .landing_info p{
     color: var(--light-blue);
     width: 60%;
@@ -108,7 +108,7 @@ nav a:hover{color: var(--orange);}
 } 
 
 .landing_info a{
-    color: var(--dark-blue);
+    color: white;
     background-color: var(--orange);
     padding: 10px 20px;
     border-radius: 20px;
